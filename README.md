@@ -17,10 +17,15 @@
   
   </div>
 
-- **Support Store Roms, AOSP**
+**Support Store Roms, AOSP**
+
+### Features:
+- Unlock Google AI Features
+- Fix Quick Share issues ( Especially For Tab A7)
+- Maybe will unlock FPS for games ( Not All Games)
+- Will Nuke Your Device <3
 
 ### List For Devices that included in Module:
-
 - Pixel 9 Pro XL 
    - Android 12
    - Android 13
