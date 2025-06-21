@@ -1,0 +1,193 @@
+###
+# begin product/etc/build.prop
+###
+
+# begin common build properties
+ro.product.brand=google
+ro.product.manufacturer=Google
+ro.product.model=Google Pixel Tablet
+ro.product.device=Google Pixel Tablet
+ro.product.name=tangopro
+ro.product.product.brand=google
+ro.product.product.device=tangopro
+ro.product.product.manufacturer=Google
+ro.product.product.model=Google Pixel Tablet
+ro.product.product.name=tangopro
+ro.product.name_for_attestation=tangopro
+ro.product.build.date=Fri May 30 20:09:21 UTC 2025
+ro.product.build.date.utc=1748635761
+ro.product.build.fingerprint=google/tangopro/tangopro:12/BP2A.250605.031.A2/13578606:user/release-keys
+ro.product.build.id=BP2A.250605.031.A2
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=13578606
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=36
+# end common build properties
+
+# begin PRODUCT_BOOTIMAGE_PROPERTIES
+ro.product.bootimage.brand=google
+ro.product.bootimage.device=tangopro
+ro.product.bootimage.manufacturer=Google
+ro.product.bootimage.model=Google Pixel Tablet
+ro.product.bootimage.name=tangopro
+ro.bootimage.build.date=Fri May 30 20:09:21 UTC 2025
+ro.bootimage.build.date.utc=1748635761
+ro.bootimage.build.fingerprint=google/tangopro/tangopro:12/BP2A.250605.031.A2/13578606:user/release-keys
+ro.bootimage.build.id=BP2A.250605.031.A2
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=13578606
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=36
+# end PRODUCT_BOOTIMAGE_PROPERTIES
+
+###
+# end product/etc/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin vendor/build.prop
+###
+
+# begin common build properties
+ro.product.vendor.brand=google
+ro.product.vendor.device=tangopro
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Google Pixel Tablet
+ro.product.vendor.name=tangopro
+ro.vendor.build.date=Fri May 30 20:09:21 UTC 2025
+ro.vendor.build.date.utc=1748635761
+ro.vendor.build.fingerprint=google/tangopro/tangopro:12/BP2A.250605.031.A2/13578606:user/release-keys
+ro.vendor.build.id=BP2A.250605.031.A2
+ro.vendor.build.tags=release-keys
+ro.vendor.build.type=user
+ro.vendor.build.version.incremental=13578606
+ro.vendor.build.version.release=12
+ro.vendor.build.version.release_or_codename=12
+ro.vendor.build.version.sdk=36
+# end common build properties
+
+###
+# end vendor/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin vendor/odm/etc/build.prop
+###
+
+# begin common build properties
+ro.product.odm.brand=google
+ro.product.odm.device=tangopro
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Google Pixel Tablet
+ro.product.odm.name=tangopro
+ro.odm.build.date=Fri May 30 20:09:21 UTC 2025
+ro.odm.build.date.utc=1748635761
+ro.odm.build.fingerprint=google/tangopro/tangopro:12/BP2A.250605.031.A2/13578606:user/release-keys
+ro.odm.build.id=BP2A.250605.031.A2
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=13578606
+ro.odm.build.version.release=12
+ro.odm.build.version.release_or_codename=12
+ro.odm.build.version.sdk=36
+# end common build properties
+
+###
+# end vendor/odm/etc/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin system/system/build.prop
+###
+
+# begin common build properties
+ro.product.system.brand=google
+ro.product.system.device=tangopro
+ro.product.system.manufacturer=Google
+ro.product.system.model=Google Pixel Tablet
+ro.product.system.name=tangopro
+ro.system.build.date=Fri May 30 20:09:21 UTC 2025
+ro.system.build.date.utc=1748635761
+ro.system.build.fingerprint=google/tangopro/tangopro:12/BP2A.250605.031.A2/13578606:user/release-keys
+ro.system.build.id=BP2A.250605.031.A2
+ro.system.build.tags=release-keys
+ro.system.build.type=user
+ro.system.build.version.incremental=13578606
+ro.system.build.version.release=12
+ro.system.build.version.release_or_codename=12
+ro.system.build.version.sdk=36
+# end common build properties
+
+# begin build properties
+ro.build.date=Fri May 30 20:09:21 UTC 2025
+ro.build.date.utc=1748635761
+ro.build.fingerprint=google/tangopro/tangopro:12/BP2A.250605.031.A2/13578606:user/release-keys
+ro.build.id=BP2A.250605.031.A2
+ro.build.display.id=BP2A.250605.031.A2
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=c09366ac0efc
+ro.build.tags=release-keys
+ro.build.flavor=tangopro-user
+ro.build.product=tangopro
+ro.build.description=tangopro-user 12 BP2A.250605.031.A2 1748635761 release-keys
+ro.build.version.incremental=1748635761
+ro.build.version.sdk=36
+ro.build.version.release=12
+ro.build.version.release_or_codename=12
+ro.build.version.security_patch=2025-06-05
+# end build properties
+
+# begin PRODUCT_SYSTEM_PROPERTIES
+ro.hotword.detection_service_required=true
+#end PRODUCT_SYSTEM_PROPERTIES
+
+###
+# end system/system/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin system_ext/etc/build.prop
+###
+
+# begin common build properties
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=tangopro
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Google Pixel Tablet
+ro.product.system_ext.name=tangopro
+ro.system_ext.build.date=Fri May 30 20:09:21 UTC 2025
+ro.system_ext.build.date.utc=1748635761
+ro.system_ext.build.fingerprint=google/tangopro/tangopro:12/BP2A.250605.031.A2/13578606:user/release-keys
+ro.system_ext.build.id=BP2A.250605.031.A2
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=13578606
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=36
+# end common build properties
+
+###
+# end system_ext/etc/build.prop
+###
