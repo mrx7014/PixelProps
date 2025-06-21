@@ -14,7 +14,10 @@
 **Spoof your device as Pixel Device**
 
   <br />
+  
   </div>
+
+- **Support Store Roms, AOSP**
 
 ### List For Devices that included in Module:
 
